@@ -14,7 +14,7 @@ module.exports = withBundleAnalyzer({
   reactStrictMode: true,
   images: {
     domains: [
-      'placehold.co', // Placeholder image links
+      'firebasestorage.googleapis.com', // Placeholder image links
     ],
   },
 });
