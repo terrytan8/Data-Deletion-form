@@ -22,7 +22,7 @@ export default function Home() {
             alt='Company logo'
             height={80}
             width={300}
-            src='https://placehold.co/300x80.png'
+            src='https://firebasestorage.googleapis.com/v0/b/fitastic-86443.appspot.com/o/Picture1.png?alt=media&token=d5c860a0-93f3-4720-a72a-0d715e1f1393'
           />
           <AccountDeletionForm />
         </div>
@@ -31,7 +31,7 @@ export default function Home() {
             alt='Company logo'
             height={500}
             width={256}
-            src='https://placehold.co/256x500.png'
+            src='https://firebasestorage.googleapis.com/v0/b/fitastic-86443.appspot.com/o/Component%2035.png?alt=media&token=0dfdbb63-7b5a-449d-884c-8c4de0d79bc0'
           />
           <p className='w-64 text-sm text-gray-500 dark:text-gray-400 text-center'>
             Alternatively, you can delete your account directly inside the app
